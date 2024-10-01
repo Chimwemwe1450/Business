@@ -16,7 +16,7 @@ const Services = () => {
             <ul className="text-left mt-4">
               <li>• Basic Mobile App: R4000</li>
               <li>• E-commerce Mobile App: R8000</li>
-              <li>• Custom Mobile App: Starting at R10000</li>
+              <li>• Custom Mobile App: R10000</li>
             </ul>
           </div>
           <div className="bg-white p-8 shadow-md rounded-lg">
@@ -25,7 +25,7 @@ const Services = () => {
             <ul className="text-left mt-4">
               <li>• Basic Website: R2000</li>
               <li>• E-commerce Website: R5000</li>
-              <li>• Custom Web Application: Starting at R4000</li>
+              <li>• Custom Web Application: R4000</li>
             </ul>
           </div>
         </div>
