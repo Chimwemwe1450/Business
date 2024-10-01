@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md p-4 fixed w-full top-0 z-50">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-2xl font-bold text-blue-500">Chims Web Dev Your ass </h1>
+        <h1 className="text-2xl font-bold text-blue-500">Chims Web Dev  </h1>
         
         {/* Hamburger Icon */}
         <div className="md:hidden">
