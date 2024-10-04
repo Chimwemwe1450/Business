@@ -2,13 +2,9 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-white rounded-lg shadow dark:bg-gray-900 m-4">
-      <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
-        
-        <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
-       @  2024 Chim Web Dev. All rights reserved
-        </span>
+    <footer className="border-t border-gray-200 bg-gray-50 dark:bg-gray-800 dark:border-gray-700 py-4">
+      <div className="container mx-auto text-center">
+        <p className="text-gray-800 dark:text-white">© 2024 Chims Web Dev. All rights reserved.</p>
       </div>
     </footer>
   );
