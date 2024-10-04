@@ -22,58 +22,19 @@ const Services = () => {
             <div className="flex flex-col gap-3 text-base">
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+          
                 </div>
                 <div className="font-bold">Basic Mobile App: R4000</div>
               </div>
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+            
                 </div>
                 <div> E-commerce Mobile App: R8000</div>
               </div>
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+         
                 </div>
                 <div>Custom Mobile App: R10000</div>
               </div>
@@ -103,58 +64,19 @@ const Services = () => {
             <div className="flex flex-col gap-3 text-base">
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+             
                 </div>
                 <div className="font-bold">Basic Website: R2000</div>
               </div>
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+         
                 </div>
                 <div> E-commerce Website: R5000</div>
               </div>
               <div className="flex flex-row gap-3">
                 <div className="text-green-600">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    className="lucide lucide-check"
-                  >
-                    <path d="M20 6 9 17l-5-5"></path>
-                  </svg>
+           
                 </div>
                 <div>Custom Web Application: R4000</div>
               </div>
